@@ -25,7 +25,7 @@
 
 				<%-- -------- Open Connection Code -------- --%> <%
  	try {
-
+ 
  		DriverManager
  				.registerDriver(new com.microsoft.sqlserver.jdbc.SQLServerDriver());
 
